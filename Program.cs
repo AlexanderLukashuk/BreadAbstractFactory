@@ -6,7 +6,6 @@ namespace BreadAbstractFactory
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }
